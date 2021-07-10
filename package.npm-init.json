@@ -1,0 +1,16 @@
+{
+  "name": "npm-packages-and-modules",
+  "version": "1.0.0",
+  "description": "Trying npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "js"
+  ],
+  "author": "Miguel Rosciano",
+  "license": "MIT"
+}
