@@ -1,5 +1,23 @@
 {
-  "dependencies": {
-    "moment": "^2.29.1"
-  }
+	"name": "npm-packages-and-modules",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"moment": "^2.29.1",
+		"nodemon": "^2.0.12"
+	},
+	"devDependencies": {
+		"date-fns": "^2.22.1",
+		"webpack": "^5.44.0"
+	},
+	"optionalDependencies": {
+		"eslint": "^7.30.0"
+	}
 }
